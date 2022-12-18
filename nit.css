@@ -1,0 +1,441 @@
+.left {
+    display: block;
+    width: 30%;
+    position: absolute;
+    left: -40px;
+    top: -8px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    text-align: center;
+}
+
+.mid {
+    display: block;
+    width: 30%;
+    margin: 5px auto;
+    padding: 5px 5px 5px 5px;
+}
+
+.right {
+    display: block;
+    width: 30%;
+    position: absolute;
+    right: -250px;
+    top: -62px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    padding-right: -60px;
+}
+
+.navbar1 li {
+    display: inline-block;
+    list-style: none;
+    padding: 70px;
+    font-size: 80px;
+
+}
+
+.navbar1 li a {
+    text-decoration: none;
+    color: #ffffff;
+
+}
+
+.navbar1 li a:hover {
+    color: #0297fb;
+    text-decoration: underline;
+}
+
+.navbar2 li {
+    display: inline-block;
+    list-style: none;
+    padding: 5px;
+    padding-left: 130px;
+}
+
+
+.navbar2 li img {
+    width: 141px;
+    align-items: center;
+    filter: invert(100%);
+
+}
+
+.navbar3 li {
+    display: inline-block;
+    list-style: none;
+    padding: 120px;
+    font-size: 80px;
+    color: #ffffff;
+}
+
+.navbar3 li a {
+    text-decoration: none;
+    color: #ffffff;
+
+}
+
+.navbar3 li a:hover {
+    color: #0a86d9;
+    text-decoration: underline;
+}
+
+.header1 {
+    background-color: rgb(3, 3, 85);
+}
+
+.left2 {
+
+    display: inline-block;
+}
+
+.left2 img {
+    width: 200px;
+}
+
+.mid2 {
+
+    display: inline-block;
+    position: absolute;
+    top: 177px;
+    left: 235px;
+}
+
+.nit {
+    font-size: 50px;
+}
+
+.right2 {
+    display: block;
+    width: 75%;
+    position: absolute;
+    right: -265px;
+    top: 226px;
+
+}
+
+.right2 li {
+    list-style: none;
+    font-size: 70px;
+    display: inline-block;
+    color: rgb(3, 3, 85);
+    padding: 40px 70px;
+}
+
+.right2 li a {
+    text-decoration: none;
+    color: rgb(3, 3, 85);
+
+}
+
+.right2 li a:hover {
+    color: #0297fb;
+}
+
+.header2 {
+    background-color: antiquewhite;
+
+}
+
+.intro {
+    display: inline-block;
+    width: 20%;
+    height: 4200px;
+    position: absolute;
+    left: 250px;
+    top: 525px;
+    background: url(https://nitrkl.ac.in/assets/images/bg/about-intro-bg.jpg);
+    margin: 30px;
+}
+
+.intro1 {
+    font-size: 70px;
+    color: #0297fb;
+    position: relative;
+    left: 67px;
+}
+
+.intro2 {
+    font-family: 'Nunito', sans-serif;
+    font-size: 180px;
+    color: #ffffff;
+    position: relative;
+    left: 67px;
+    top: -77px;
+}
+
+.intro3 {
+    font-family: 'Nunito', sans-serif;
+    font-size: 100px;
+    color: #ffffff;
+    position: relative;
+    left: -43px;
+    top: -215px;
+    padding: 10%;
+}
+
+.intro4 {
+    font-family: 'Nunito', sans-serif;
+    font-size: 120px;
+    position: relative;
+    left: 67px;
+    top: -414px;
+    display: inline-block;
+    width: 25%;
+    color: #ffffff;
+
+
+}
+
+.intro5 {
+    filter: invert(100%);
+    position: relative;
+    top: -430px;
+    right: -236px;
+    width: 500px;
+}
+
+.btn {
+    font-size: 100px;
+}
+
+.btn {
+    border: 10px solid #000000;
+    color: #ffffff;
+    background-color: #0297fb;
+    padding: 26px 130px;
+    border-radius: 30px;
+    position: relative;
+    top: -333px;
+    right: -221px;
+    cursor: pointer;
+}
+
+.article1 {
+    font-family: 'Nunito', sans-serif;
+    display: inline-block;
+    position: absolute;
+    right: 221px;
+    top: 45px;
+    font-size: 78px;
+    width: 45%;
+
+}
+
+.article2 {
+    font-family: 'Nunito', sans-serif;
+    display: inline-block;
+    position: relative;
+    left: 24px;
+    top: 58px;
+    width: 93%;
+    font-size: 78px;
+    margin-bottom: 90px;
+
+}
+
+.article {
+    position: absolute;
+    left: 1810px;
+    top: 550px;
+    background-color: rgba(216, 225, 230, 0.741);
+    width: 3804px;
+    padding: 52px;
+    height: 2630px;
+}
+
+.article img {
+    width: 1800px;
+}
+
+.article4 {
+    font-size: 60px;
+    position: absolute;
+    top: 2452px;
+    left: 82px;
+    font-family: 'Nunito', sans-serif;
+    color: rgb(3, 3, 85);
+}
+
+.article3 {
+    font-family: 'Nunito', sans-serif;
+    color: rgb(3, 3, 85);
+
+    font-size: 100px;
+    position: absolute;
+    top: 2277px;
+    left: 82px;
+}
+.article5{
+    position: absolute;
+    top: 3190px;
+    left: 1806px;
+    font-size: 150px; 
+    color: rgb(3, 3, 85);
+
+}
+.article6{
+    font-size: 100px;
+    position: absolute;
+    top: 3553px;
+    left: 1807px;
+    color: #0297fb;
+    font-family: 'Nunito', sans-serif;
+
+}
+.box1{
+    display: inline-block;
+    position: absolute;
+    top: 3840px;
+    left: 1821px;
+    text-align: center;
+    width: 750px;
+    background-color: #fbf8cc;
+}
+.box2{
+    display: inline-block;
+    position: absolute;
+    top: 3840px;
+    left: 2707px;
+    text-align: center;
+    width: 750px;
+    background-color:#e9fbd5 ;
+}
+.box3{
+    display: inline-block;
+    position: absolute;
+    top: 3840px;
+    left: 3593px;
+    text-align: center;
+    width: 750px;
+    background-color: #dcf1fd;
+}
+.box4{
+    display: inline-block;
+    position: absolute;
+    top: 3840px;
+    left: 4491px;
+    text-align: center;
+    width: 750px;
+    background-color:#e2d1fb ;
+}
+.content1{
+    font-size: 190px;
+    color: rgb(3, 3, 85);
+    font-family: 'Nunito', sans-serif;
+}
+.content2{
+    font-size: 90px;
+    color: rgb(3, 3, 85);
+    font-family: 'Nunito', sans-serif;
+}
+.content3{
+    font-size: 50px;
+    position: absolute;
+    top: 3600px;
+    left: 4955px;
+    padding: 60px;
+    font-family: 'Nunito', sans-serif;
+    cursor: pointer;
+    background-color: #0a86d9;
+    border:5px solid #0a86d9;;
+    border-radius: 10%;
+}
+.content3 a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.content4{
+    display: block;
+    width: 100%;
+    position: absolute;
+    top: 4961px;
+    left: -4px;
+    font-size: 150px;
+    font-family: 'Nunito', sans-serif;
+    background-color: #f3f8f9;
+    padding-left: 260px;
+}
+
+
+
+.navbar6{
+    position: absolute;
+    top: 5300px;
+    left: 0px;
+    display: block;
+    width: 100%;
+    background-color: #f3f8f9;
+}
+.navbar6 li{
+    list-style: none;
+    display: inline-block;
+    padding: 190px;
+}
+.navbar6 li img{
+    width: 800px;
+}
+.footer2{
+    display: block;
+    width: 100%;
+    position: absolute;
+    top: 6774px;
+    border: 5px solid black;
+    font-size: 90px;
+    background: url(https://nitrkl.ac.in/assets/images/bg/about-intro-bg.jpg);
+    color: #ffffff;
+    font-family: cursive;
+    height: 2000px;
+    font-weight: lighter;
+}
+.navbar7{
+position: relative; 
+left: 97px;
+
+}
+.navbar8{
+position: relative;
+left: 2692px;
+top: -1478px;
+}
+.navbar9{
+position: relative;
+left: 5042px;
+top: -2945px;
+}
+.navbar7 li{
+    color: #ffffff;
+    
+}
+.navbar7 li a{
+text-decoration: none;
+color: #ffffff;
+}
+.navbar7 li a:hover{
+    color:#0297fb;
+}
+.navbar7 li{
+    color: #ffffff;
+    
+}
+.navbar8 li a{
+text-decoration: none;
+color: #ffffff;
+}
+.navbar8 li a:hover{
+    color:#0297fb;
+}
+.navbar7 li{
+    color: #ffffff;
+    
+}
+.navbar9 li a{
+text-decoration: none;
+color: #ffffff;
+}
+.navbar9 li a:hover{
+    color:#0297fb;
+}.content5{
+    text-decoration: underline;
+    color: #0297fb;
+}
